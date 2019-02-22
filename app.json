@@ -1,0 +1,10 @@
+{
+  "name": "Contacts Mean",
+  "description": "A contacts app built on the MEAN stack",
+  "repository": "https://github.com/JWKyle/contacts-mean",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": [
+    "spec project",
+    "test"
+  ]
+}
