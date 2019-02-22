@@ -1,4 +1,7 @@
-# ContactsMean
+# Contacts Mean
+
+Click Here to Deploy a new build to Heroku [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.4.
 
